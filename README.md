@@ -104,5 +104,18 @@ OPM: Organizational Project Management.
 * **Change-based:** Agile model. This approach welcomes change in between and accomodates
   - Time-boxed cadence(iterations/sprints). Cadence literally means rhythm.
   - The value is delivered throughout the project.
+<BR><BR>
 
+**PMO:** Project Managament Office
+**ACoE:** Agile Center of Excellence. aka Value Delivery Office (VDO)
+
+|**PMO** | **ACoE** |
+|--------|----------|
+|Supportive | Enable rather than manage |
+|* Develops best practices, standards and templates | * Doesn't standardize, but promotes local customer-centric decision making |
+|* Trains delivery teams| |
+|Controlling | |
+|* Monitor compliance with project management standards, policies, procedures and templates via project audits |* Doesn't control, but supports. |
+|Manage projects directly |Coaches and build agile mindset, agile skills and capabilities. |
+|-----|-----|
 
