@@ -23,5 +23,12 @@ The PDUs will be updated on the dashboard.
 - **Time: 230 mins** (Two optional 10 mins break).
 - One cannot go back to the questions attempted before the break.
 - Do not spend more than 1 min per question.
+- Types of questions:
+    - Multiple choice
+    - Multiple response
+    - Matching
+    - Hotspot
+    - Fill in the blanks
+- Passing marks: PMI never announces. Its either PASS/FAIL.
 
 
