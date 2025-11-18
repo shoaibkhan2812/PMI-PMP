@@ -18,17 +18,17 @@ The PDUs will be updated on the dashboard.
 
 * PMP Exam format
 
-- 50% agile and 50% waterfall model.
-- **180 questions**, 5 questions do no carry marks. __*No Negative Marking*__
-- **Time: 230 mins** (Two optional 10 mins break).
-- One cannot go back to the questions attempted before the break.
-- Do not spend more than 1 min per question.
-- Types of questions:
-    - Multiple choice
-    - Multiple response
-    - Matching
-    - Hotspot
-    - Fill in the blanks
-- Passing marks: PMI never announces. Its either PASS/FAIL.
+    - 50% agile and 50% waterfall model.
+    - **180 questions**, 5 questions do no carry marks. __*No Negative Marking*__
+    - **Time: 230 mins** (Two optional 10 mins break).
+    - One cannot go back to the questions attempted before the break.
+    - Do not spend more than 1 min per question.
+    - Types of questions:
+        - Multiple choice
+        - Multiple response
+        - Matching
+        - Hotspot
+        - Fill in the blanks
+    - Passing marks: PMI never announces. Its either PASS/FAIL.
 
 
