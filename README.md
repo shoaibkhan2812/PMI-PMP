@@ -48,8 +48,8 @@ The PDUs will be updated on the dashboard.
 PMI-PMP <BR>
 &emsp;    |<BR>
 &emsp;    ├─ Lesson 1: Business Environment<BR>
-&emsp;    ├─ [Lesson 2: Strategic Alignment.md](Strategic Alignment.md)<BR>
-&emsp;    ├─ Lesson 3: Project Benefits & Value<BR>
+&emsp;    ├─ [Lesson 2: Strategic Alignment.md](Strategic%20Alignment.md)<BR>
+&emsp;    ├─ [Lesson 3: Project Benefits & Value](Project%20Benefits%20&%20Value)<BR>
 &emsp;    ├─ Lesson 4: Organizational Culture & Change Management<BR>
 &emsp;    ├─ Lesson 5: Project Governance<BR>
 &emsp;    ├─ Lesson 6: Project Compliance<BR>
