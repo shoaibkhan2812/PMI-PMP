@@ -1,9 +1,12 @@
-# Lesson 1: Business Environment
+# Section 1: Business Environment
 
 * Foundation
 * Strategic Alignment
-* Organizaional culter and change management
+* Project benefits and value
+* Organizaional culture and change management
 * Project Governance
+* Project Compliance
+* Case Study
 
 **Project :**
 
@@ -70,3 +73,5 @@ OPM: Organizational Project Management.
 |* Monitor compliance with project management standards, policies, procedures and templates via project audits |* Doesn't control, but supports. |
 |Manage projects directly |Coaches and build agile mindset, agile skills and capabilities. |
 |-----|-----|
+
+
