@@ -45,6 +45,8 @@ The PDUs will be updated on the dashboard.
     - Lesson 5: Support the Project Team(Key performance indicators)
     - Lesson 6: Close the Project/Phase
 
+https://agilealliance.org/agile101/subway-map-to-agile-practices/
+
 PMI-PMP <BR>
 &emsp;    |<BR>
 &emsp;    ├─ Lesson 1: [Business Environment](Business%20Environment.md)<BR>
