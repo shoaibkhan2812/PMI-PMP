@@ -45,6 +45,15 @@ The PDUs will be updated on the dashboard.
     - Lesson 5: Support the Project Team(Key performance indicators)
     - Lesson 6: Close the Project/Phase
 
+PMI-PMP
+    |
+    |-- Lesson 1: Business Environment ()
+    |-- Lesson 2: Strategic Alignment
+    |-- Lesson 3: Project Benefits & Value
+    |-- Lesson 4: Organizational Culture & Change Management
+    |-- Lesson 5: Project Governance
+    |-- Lesson 6: Project Compliance
+    |-- Lesson 7: Case Study
 -----
 # Lesson 1: Business Environment
 
