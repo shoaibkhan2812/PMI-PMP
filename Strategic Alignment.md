@@ -1,1 +1,1 @@
-#Strategic alignment 
+# Lesson 2: Strategic Alignment 
